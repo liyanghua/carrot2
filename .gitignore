@@ -17,3 +17,4 @@ junit*.properties
 *.patch
 /*.log
 /.tools
+target/
